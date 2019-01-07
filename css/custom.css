@@ -27,7 +27,7 @@ article.mt-sermon .single-sermon-media i {
     margin: 0;
 }
 
-.mt_images {}
+/* .mt_images {} */
 
 .contact_service .landing_input {
     background-color: #f8f7f1;
@@ -542,7 +542,8 @@ header {
 
 footer.template-footer {
     background-color: #333333;
-    background-image: url('images/footer_background.jpg');
+    background-image: url('images/footer_background.jpeg');
+    /* background-image: url('images/footer_background.jpg'); */
 }
 
 footer .footer-top h1.widget-title,
@@ -798,7 +799,6 @@ blockquote {
 }
 
 /*CONTACT*/
-}
 
 .mt_custom_contact1 {
     color: #2c3533 !important;
@@ -1325,8 +1325,8 @@ header {
 }
 
 footer.template-footer {
-    background-color: #333333;
-    background-image: url('images/footer_background.jpg');
+    background-color: #484444;
+    background-image: url('images/footer_background_1800x646.jpg');
 }
 
 footer .footer-top h1.widget-title,
@@ -1544,9 +1544,9 @@ blockquote {
     color: #ffffff !important;
 }
 
-.campaign_shortcode .campaign_summary h3 {}
+/* .campaign_shortcode .campaign_summary h3 {} */
 
-.campaign_shortcode .campaign_summary h3 span {}
+/* .campaign_shortcode .campaign_summary h3 span {} */
 
 .campaign_shortcode .campaign_button {
     color: #333333;
@@ -2038,7 +2038,7 @@ button.general.btn3.btn3-size-md.btn3-shape-square.btn3-style-custom.mt_custom_b
     box-sizing: border-box;
 }
 
-.mt_button_two {}
+/* .mt_button_two {} */
 
 #google-container {
     height: 450px;
