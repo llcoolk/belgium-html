@@ -9,7 +9,7 @@
     if (isset($_POST['contact_me'])) {
         // TO EMAIL: --> SET YOUR OWN EMAIL HERE
         // $to = 'support@modeltheme.com';
-        $to = 'xzibit0606@gmail.com';
+        $to = 'leenkim@me.com';
         $subject = $_POST['user_subject'];
         $form_user_first_name = $_POST['user_first_name'];
         $form_user_last_name = $_POST['user_last_name'];
@@ -27,7 +27,7 @@
 
         $headers = 'From: ' . $form_user_first_name . ' '. $form_user_last_name . '<'. $form_user_email . '>';
         if( mail( $to, $subject, $message, $headers ) ) {
-            #echo "<p>Your email has been sent! Thank you</p>";
+            echo "<p>Your email has been sent! Thank you</p>";
         }
     }
 
