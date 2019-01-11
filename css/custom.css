@@ -542,8 +542,8 @@ header {
 
 footer.template-footer {
     background-color: #333333;
-    background-image: url('images/footer_background.jpeg');
-    /* background-image: url('images/footer_background.jpg'); */
+    /* background-image: url('images/footer_background.jpeg'); */
+    background-image: url('images/footer_background.jpg');
 }
 
 footer .footer-top h1.widget-title,
@@ -570,7 +570,7 @@ footer .footer-top .widget-title {
 }
 
 footer .footer {
-    background-color: rgba(51, 51, 51, 0.1);
+    background-color: rgba(19, 19, 19, 0.1);
 }
 
 footer .footer h1.widget-title,
