@@ -44,7 +44,7 @@ article.mt-sermon .single-sermon-media i {
 .wpcf7-form-control .wpcf7-submit {
     border: 0 none;
     color: #fff;
-    background: #f1c40f;
+    background: #ed1f24;
 }
 
 .contact_service .landing_submit {
@@ -252,7 +252,7 @@ body .exodoswp_preloader_holder {
 }
 
 .back-to-top {
-    background: #f1c40f url(images/mt-to-top-arrow.svg) no-repeat center center;
+    background: #ed1f24 url(images/mt-to-top-arrow.svg) no-repeat center center;
 }
 
 #navbar .menu-item>a {
@@ -288,7 +288,7 @@ body .exodoswp_preloader_holder {
 #navbar .menu-item:hover>a,
 #navbar .menu-item:focus>a,
 #navbar .menu-item.current-menu-item>a {
-    color: #f1c40f;
+    color: #ed1f24;
 }
 
 #navbar .menu-item>a,
@@ -328,7 +328,7 @@ body .exodoswp_preloader_holder {
 }
 
 #navbar ul.sub-menu li a:hover {
-    color: #f1c40f;
+    color: #ed1f24;
 }
 
 #navbar ul.sub-menu li a:hover,
@@ -543,7 +543,7 @@ header {
 footer.template-footer {
     background-color: #333333;
     /* background-image: url('images/footer_background.jpeg'); */
-    background-image: url('images/footer_background.jpg');
+    background-image: url('images/RB-500x333.jpg');
 }
 
 footer .footer-top h1.widget-title,
@@ -635,7 +635,7 @@ blockquote {
 }
 
 blockquote {
-    border-color: #f1c40f;
+    border-color: #ed1f24;
 }
 
 .tta-color-grey.tta-style-classic .tta-panel .tta-panel-title>a {
@@ -745,7 +745,7 @@ blockquote {
 }
 
 .list-view .post-details .post-excerpt .more-link {
-    background: #f1c40f;
+    background: #ed1f24;
 }
 
 .list-view .post-details .post-excerpt .more-link {
@@ -763,7 +763,7 @@ blockquote {
 
 .pagination .page-numbers.current,
 .modeltheme-pagination.pagination .page-numbers.current {
-    background: #f1c40f;
+    background: #ed1f24;
 }
 
 .modeltheme-pagination-holder {
@@ -908,7 +908,7 @@ blockquote {
 }
 
 .mt_custom_buton {
-    background-color: #f1c40f;
+    background-color: #ed1f24;
     color: #1c1c1c;
     font-weight: 600;
 }
@@ -1409,7 +1409,7 @@ blockquote {
 }
 
 blockquote {
-    border-color: #f1c40f;
+    border-color: #ed1f24;
 }
 
 .tta-color-grey.tta-style-classic .tta-panel .tta-panel-title>a {
@@ -1699,7 +1699,8 @@ img.blog_post_image {
 }
 
 .mt_color_white {
-    color: #fff;
+    color: #ed1f24;
+    /* color: #fff; */
 }
 
 .low_padding {
@@ -1752,7 +1753,7 @@ img.blog_post_image {
 }
 
 .mt_background_progress_bar {
-    background-color: #f1c40f;
+    background-color: #ed1f24;
 }
 
 .mt_background_first_content {
@@ -1813,7 +1814,7 @@ button.general.btn3.btn3-size-md.btn3-shape-square.btn3-style-custom.mt_custom_b
 }
 
 .mt_section_product_two_button_style {
-    background-color: #F1C40F;
+    background-color: #ed1f24;
 }
 
 .mt_section_product_title_style {
@@ -1870,7 +1871,7 @@ button.general.btn3.btn3-size-md.btn3-shape-square.btn3-style-custom.mt_custom_b
 }
 
 .mt_first_page_button:hover {
-    color: #f1c40f !important;
+    color: #ed1f24 !important;
     box-shadow: #ffffff 0 0px 0px 40px inset;
 }
 
@@ -2069,3 +2070,8 @@ div.controls input {
     padding: 0;
     margin: 0;
 }
+
+/* .logo_background_dark {
+    width: 100% !important;
+    background-color: #333333 !important;
+} */

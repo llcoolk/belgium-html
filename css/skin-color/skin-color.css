@@ -23,14 +23,14 @@ span.amount,
 .widget_archive li a:hover,
 .widget_categories .cat-item:hover,
 .widget_categories li a:hover,
-.pricing-table.recomended .button.solid-button, 
+.pricing-table.recomended .button.solid-button,
 .pricing-table .table-content:hover .button.solid-button,
-.pricing-table.Recommended .button.solid-button, 
-.pricing-table.recommended .button.solid-button, 
+.pricing-table.Recommended .button.solid-button,
+.pricing-table.recommended .button.solid-button,
 #sync2 .owl-item.synced .post_slider_title,
 #sync2 .owl-item:hover .post_slider_title,
 #sync2 .owl-item:active .post_slider_title,
-.pricing-table.recomended .button.solid-button, 
+.pricing-table.recomended .button.solid-button,
 .pricing-table .table-content:hover .button.solid-button,
 .testimonial-author,
 .testimonials-container blockquote::before,
@@ -65,7 +65,7 @@ footer ul.menu li.menu-item a:hover,
 .campaign_shortcode .campaign_summary h3,
 .campaign_shortcode .campaign_summary h3 span,
 .sidebar-content .widget_nav_menu li a:hover{
-color: #f1c40f;
+color: #ed1f24;
 }
 /*------------------------------------------------------------------
 BACKGROUND + BACKGROUND-COLOR
@@ -75,21 +75,21 @@ BACKGROUND + BACKGROUND-COLOR
 .button::after,
 .rotate45,
 .latest-posts .post-date-day,
-.latest-posts h3, 
-.latest-tweets h3, 
+.latest-posts h3,
+.latest-tweets h3,
 .latest-videos h3,
-.button.solid-button, 
+.button.solid-button,
 button.btn,
-.pricing-table.recomended .table-content, 
+.pricing-table.recomended .table-content,
 .pricing-table .table-content:hover,
-.pricing-table.Recommended .table-content, 
-.pricing-table.recommended .table-content, 
-.pricing-table.recomended .table-content, 
+.pricing-table.Recommended .table-content,
+.pricing-table.recommended .table-content,
+.pricing-table.recomended .table-content,
 .pricing-table .table-content:hover,
 .block-triangle,
 .owl-template .owl-controls .owl-page span,
-body .btn.btn-blue, 
-body a.btn.btn-blue, 
+body .btn.btn-blue,
+body a.btn.btn-blue,
 body button.btn.btn-blue,
 .pagination .page-numbers.current,
 .pagination .page-numbers:hover,
@@ -99,9 +99,9 @@ body button.btn.btn-blue,
 .masonry_banner.default-skin,
 .form-submit input,
 .progress-bar,
-.member-header::before, 
+.member-header::before,
 .member-header::after,
-.member-footer .social::before, 
+.member-footer .social::before,
 .member-footer .social::after,
 .subscribe > button[type='submit'],
 .no-results input[type='submit'],
@@ -133,16 +133,16 @@ footer .footer-top .menu .menu-item a::before,
 .featured_product_shortcode .featured_product_button,
 .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
 .post-password-form input[type='submit'] {
-background: #f1c40f ;
+background: #ed1f24 ;
 }
 .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,
-.modeltheme-search.modeltheme-search-open .modeltheme-icon-search, 
+.modeltheme-search.modeltheme-search-open .modeltheme-icon-search,
 .no-js .modeltheme-search .modeltheme-icon-search,
 .modeltheme-icon-search:hover,
 .latest-posts .post-date-month,
 .button.solid-button:hover,
-body .btn.btn-blue:hover, 
-body a.btn.btn-blue:hover, 
+body .btn.btn-blue:hover,
+body a.btn.btn-blue:hover,
 .single-post-tags > a:hover,
 body button.btn.btn-blue:hover,
 .search-form input[type="submit"]:hover,
@@ -186,7 +186,7 @@ BORDER-COLOR
 .author-bio,
 blockquote,
 .widget_popular_recent_tabs .nav-tabs > li.active,
-body .left-border, 
+body .left-border,
 body .right-border,
 body .member-header,
 body .member-footer .social,
@@ -204,10 +204,10 @@ footer .menu .menu-item a {
 }
 .campaign_shortcode .campaign_button,
 .back-to-top{
-	background-color: #f1c40f;
+	background-color: #ed1f24;
 }
 button.general.btn3.btn3-size-md.btn3-shape-square.btn3-style-custom.mt_custom_button{
-	background-color: #f1c40f;	
+	background-color: #ed1f24;
 }
 .woocommerce ul.products li.product .price{
     color: #77a464;
