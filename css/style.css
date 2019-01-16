@@ -4980,3 +4980,7 @@ div.wpcf7 input[type="file"] {
 div.wpcf7 input[type="file"]:disabled {
     cursor: default;
 }
+
+footer .logo img {
+    max-width: 50% !important;
+}

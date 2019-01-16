@@ -2076,10 +2076,15 @@ div.controls input {
     margin: 0;
 }
 
+/* color for the quotes */
 h1.campaign_name,
 h1.mt_custom_style_Josua {
     margin: 50px 0;
-    color: greenyellow;
+    color: #fff;
+}
+
+footer .logo img {
+    max-width: 50%;
 }
 
 /* .logo_background_dark {
