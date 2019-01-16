@@ -550,7 +550,7 @@ footer .footer-top h1.widget-title,
 footer .footer-top h3.widget-title,
 footer .footer-top .widget-title {
     color: #ffffff;
-    background-image: url('images/RB-500x333.jpg');
+    /* background-image: url('images/RB-500x333.jpg'); */
 }
 
 .footer-row-1 {

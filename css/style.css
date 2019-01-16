@@ -567,6 +567,7 @@ body.single-post {
 
 .mt-top-bar h1.logo {
     margin: 0;
+    width: 50%;
 }
 
 .list-view .post-thumbnail {
